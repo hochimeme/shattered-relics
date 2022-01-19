@@ -41,7 +41,7 @@ This phase should take about 11 minutes, plus however long it takes to skill and
 * [ ] Steal silk
 * [ ] Check pet insurance (ardy 1)
 * [ ] Use ardougne altar (ardy 1)
-* [ ] Unlock Woodcutting
+* [ ] Unlock Woodcutting (optional, skip monk's friend if you decide not to do woodcutting)
 * [ ] Do Monk's friend and clocktower (optional) simultaneously
 * [ ] Unlock Agility
 * [ ] Kill a moss giant if you went magic
@@ -77,7 +77,7 @@ At this point, you should have the following:
 
 #### Why woodcutting?
 
-36 Woodcutting is required to do lost city, which can take a while to complete since you're basically locked to a bronze axe. It's also a fairly task-dense skill and unlocks an early afk-able if necessary
+36 Woodcutting is required to do lost city, which can take a while to complete since you're basically locked to a bronze axe. It's also a fairly task-dense skill and unlocks an early afk-able if necessary. If you choose to skip woodcutting, it just means you can unlock another skill a little earlier. I like going with woodcutting though since it opens up a lot of tasks very early on
 
 #### Why agility?
 
