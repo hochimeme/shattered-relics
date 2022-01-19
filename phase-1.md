@@ -1,3 +1,7 @@
+# Leagues 3 Phase 1
+
+## Notes
+
 * Start with thieving, fishing, and defence
 * Unlocking a combat skill unlocks the corresponding DMM starting weapon
 * The first combat stat unlocked doesn't matter too much since you can unlock the second one pretty quickly, though attack and magic seem like the best choices to me
