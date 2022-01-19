@@ -38,12 +38,13 @@ This phase should take about 11 minutes, plus however long it takes to skill and
 * [ ] Steal a chocolate slice from ardy (league task)
 * [ ] Steal a cake from ardy (ardy 1 task)
 * [ ] Unlock Ardy waystone
-* [ ] Steal silk
+* [ ] If you are skipping clocktower: get 20 thieving at cake stall and steal silk
 * [ ] Check pet insurance (ardy 1)
 * [ ] Use ardougne altar (ardy 1)
 * [ ] Unlock Woodcutting (optional, skip monk's friend if you decide not to do woodcutting)
 * [ ] Do Monk's friend and clocktower (optional) simultaneously
 * [ ] Unlock Agility
+* [ ] If you did clocktower: Buy a silk and sell it back
 * [ ] Kill a moss giant if you went magic
 * [ ] Go to tree gnome stronghold 
 * [ ] Get 10 agility
@@ -68,7 +69,8 @@ At this point, you should have the following:
 * 27 woodcutting
 * 10 agility
 * Monk's Friend completed
-* 10,000 gp
+* Clocktower completed
+* 10,500ish gp
 * 3 ardy tasks
 * 2 kandarin tasks
 * Ready to complete plague city once you have mining unlocked & snape grass
